@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Crowe</h1>
 <h3 align="center">A web developer hoping to learn all that I can about both frontend and backend development</h3>
 
-- 🌱 I’m currently learning: **Node.js and Express**
+- 🌱 I’m currently learning: **Node.js, Express and MongoDB**
 
 - 💬 Ask me about:  **React and TypeScript**
 
