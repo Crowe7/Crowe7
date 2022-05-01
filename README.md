@@ -5,7 +5,7 @@
 
 - 💬 Ask me about:  **React and TypeScript**
 
-- 📫 How to reach me: **jacobocrowe@gmail.com or find me on [linkedin](https://www.linkedin.com/in/jacob-crowe-bb80ba230/) **
+- 📫 How to reach me: **jacobocrowe@gmail.com or find me on [linkedin](https://www.linkedin.com/in/jacob-crowe-bb80ba230/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
