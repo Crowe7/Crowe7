@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Crowe</h1>
 <h3 align="center">A fullstack developer with experience in Typescript, React, Node, and much more</h3>
 
-- 🌱 I’m currently learning **GraphQL and Ruby on Rails**
+- 🌱 I’m currently learning **GO**
 
 - 💬 Ask me about **anything JS/TS**
 
